@@ -122,9 +122,9 @@ Contributions are welcome! Please follow these steps:
 ## Contact Information
 
 - **Name: Getachew Getu**
-- GitHub: [Getachew0557](https://github.com/jonnahjr)
-- Email: [getachewgetu2010@gmail.com](mailto:jonasjjonas14@gmail.com)
-- LinkedIn: [Getachew Getu](https://www.linkedin.com/in/yonas-bogale)
+- GitHub: [jonnahjr](https://github.com/jonnahjr)
+- Email: [jonasjjonas14@gmail.com](mailto:jonasjjonas14@gmail.com)
+- LinkedIn: [yonas-bogale](https://www.linkedin.com/in/yonas-bogale)
 
 ## License
 
