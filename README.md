@@ -47,7 +47,7 @@ The data for this project is sourced from the Xente Challenge on Kaggle. The dat
 ## Contact Information
 - **Getachew Getu**
 - GitHub: [jonnahjr](https://github.com/jonnahjr)
-- Email: [jonasjjinas14@gmail.com](mailto:jonasjjonas14@gmail.com)
+- Email: [jonasjjnas14@gmail.com](mailto:jonasjjonas14@gmail.com)
 - LinkedIn: [yonas bogale](https://www.linkedin.com/in/yonas-bogale)
 
 ## License
