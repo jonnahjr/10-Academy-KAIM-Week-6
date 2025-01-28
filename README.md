@@ -93,7 +93,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Contact Information
 
-- **Name: Getachew Getu**
+- **Name: Yonas Bogale**
 - GitHub: [jonnahjr](https://github.com/jonnahjr)
 - Email: [jonasjjonas14@gmail.com](mailto:jonasjjonas14@gmail.com)
 - LinkedIn: [yonas-bogale](https://www.linkedin.com/in/yonas-bogale)
