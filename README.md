@@ -45,7 +45,7 @@ The data for this project is sourced from the Xente Challenge on Kaggle. The dat
 - [Understanding Credit Risk](https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/alternative_credit_scoring.pdf)
 
 ## Contact Information
-- **Getachew Getu**
+- **Yonas Bogale**
 - GitHub: [jonnahjr](https://github.com/jonnahjr)
 - Email: [jonasjjonas14@gmail.com](mailto:jonasjjonas14@gmail.com)
 - LinkedIn: [yonas-bogale](https://www.linkedin.com/in/yonas-bogale)
